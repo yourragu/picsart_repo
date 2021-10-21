@@ -9,8 +9,7 @@
   <test name="Test">
     <classes>
       <class name="task.Picsart_program"/>
-      
-    </classes>
+         </classes>
   </test>
   
  
