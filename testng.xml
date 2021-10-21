@@ -3,8 +3,8 @@
 <suite name="Suite">
 
 <listeners>
-		<listener class-name="retryLogic.RetryLogic" />
-	</listeners>	
+	<listener class-name="retryLogic.RetryLogic" />
+</listeners>	
 	
   <test name="Test">
     <classes>
